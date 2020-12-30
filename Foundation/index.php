@@ -14,9 +14,10 @@
 <div class="grid-container">
   <div class="grid-x grid-margin-x">
     <div class="large-0 cell">
-      <a href="logiranje.php" class="callout tekst">
-        Dobro došli na stranicu! :D
-      </p>
+      <div class="callout tekst">
+        <a href="login.php">Dobro došli na stranicu</a>
+
+      </div>
     </div>
   </div>
 </div>
