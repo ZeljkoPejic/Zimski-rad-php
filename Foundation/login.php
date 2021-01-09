@@ -25,7 +25,7 @@
         <label>Lozinka:
           <input type="text" placeholder="Lozinka">
         </label>
-        <a href="nadzornaploca.php">Logiraj se</a>
+        <a href="nadzornaploca.php">Prijava</a>
       </div>
     </div>
   </div>

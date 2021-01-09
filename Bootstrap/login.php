@@ -16,7 +16,7 @@
   <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
   <label for="inputPassword" class="col-sm-2 col-form-label">Lozinka</label>
   <input type="password" class="form-control" id="inputPassword">
-  <a href="nadzornaploca.php">Ulogirajte se</a>
+  <a href="nadzornaploca.php">Prijava</a>
 </div>
 
 </div>

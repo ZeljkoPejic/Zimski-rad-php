@@ -40,7 +40,7 @@
 								<div class="flex flex-2">
 									<div class="col col1">
 										<div class="image round fit">
-											<a href="generic.html" class="link"><img src="images/pic1.jpg" alt="" /></a>
+											<a href="#" class="link"><img src="images/pic1.jpg" alt="" /></a>
 										</div>
 									</div>
 									<div class="col col2">
@@ -64,7 +64,7 @@
 								</div>
 								<div class="col col1 first">
 									<div class="image round fit">
-										<a href="generic.html" class="link"><img src="images/shakespeare.jpg" alt="" /></a>
+										<a href="#" class="link"><img src="images/shakespeare.jpg" alt="" /></a>
 									</div>
 								</div>
 							</div>
@@ -82,7 +82,7 @@
 								</div>
 								<div class="col col1 first">
 									<div class="image round fit">
-										<a href="generic.html" class="link"><img src="images/albert-einstein.jpg" alt="" /></a>
+										<a href="#" class="link"><img src="images/albert-einstein.jpg" alt="" /></a>
 									</div>
 								</div>
 							</div>
@@ -100,7 +100,7 @@
 								</div>
 								<div class="col col1 first">
 									<div class="image round fit">
-										<a href="generic.html" class="link"><img src="images/3dprinter.jpg" alt="" /></a>
+										<a href="#" class="link"><img src="images/3dprinter.jpg" alt="" /></a>
 									</div>
 								</div>
 							</div>
@@ -119,7 +119,7 @@
 								</div>
 								<div class="col col1 first">
 									<div class="image round fit">
-										<a href="generic.html" class="link"><img src="images/ibm.jpg" alt="" /></a>
+										<a href="#" class="link"><img src="images/ibm.jpg" alt="" /></a>
 									</div>
 								</div>
 							</div>
@@ -138,7 +138,7 @@
 								</div>
 								<div class="col col1 first">
 									<div class="image round fit">
-										<a href="generic.html" class="link"><img src="images/pic02.jpg" alt="" /></a>
+										<a href="#" class="link"><img src="images/speakers.jpg" alt="" /></a>
 									</div>
 								</div>
 							</div>
